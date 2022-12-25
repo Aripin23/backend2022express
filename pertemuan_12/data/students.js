@@ -1,3 +1,3 @@
-const students = ["Aris", "Arip", "Innaa"];
+const students = ["Jonas", "Martha", "Hannah"];
 
 module.exports = students;
